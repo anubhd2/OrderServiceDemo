@@ -1,4 +1,4 @@
-OrderServiceDemo (.NET 8 + Steeltoe)
+OrderServiceDemo (.NET 8 + Steeltoe) (This project works together with [ConfigServerDemo] https://github.com/anubhd2/ConfigServerDemo)
 
 A demo microservice built with **ASP.NET Core** that integrates with **Spring Cloud Config Server** using **Steeltoe**.  
 The service is also instrumented with **Prometheus** and visualized in **Grafana** for real-time metrics.

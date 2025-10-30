@@ -1,4 +1,6 @@
 OrderServiceDemo (.NET 8 + Steeltoe) (This project works together with [ConfigServerDemo] https://github.com/anubhd2/ConfigServerDemo)
+<img width="1662" height="1033" alt="Grafana,Prometheus" src="https://github.com/user-attachments/assets/e9e7c153-52bd-4407-86b6-cf7ae9edfbcd" />
+
 
 A demo microservice built with **ASP.NET Core** that integrates with **Spring Cloud Config Server** using **Steeltoe**.  
 The service is also instrumented with **Prometheus** and visualized in **Grafana** for real-time metrics.
